@@ -1,0 +1,14 @@
+{
+  "name": "Darkio Fonty Fun",
+  "description": "V5 compact text-bar controls with numeric Unicode, color, and animation mappings for Revenge Classic.",
+  "authors": [
+    {
+      "name": "Darkio"
+    }
+  ],
+  "main": "builds/dev.darkio.fonty-fun/index.js",
+  "vendetta": {
+    "icon": "PaintbrushIcon"
+  },
+  "hash": "72fd2f3e3b108029b731db6c09fe13770ce2416fa8e8e7a83071d756ad453dc4"
+}

@@ -1,0 +1,9 @@
+{
+  "$meta": {
+    "name": "Darkio Fonty Fun",
+    "description": "GitHub Pages-hosted Classic/Vendetta-compatible repository for Darkio Fonty Fun V5."
+  },
+  "dev.darkio.fonty-fun": {
+    "version": "5.0.0"
+  }
+}
